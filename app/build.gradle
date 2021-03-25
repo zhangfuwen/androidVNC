@@ -6,7 +6,7 @@ android {
     defaultConfig {
         applicationId 'com.offsec.nhvnc'
         minSdkVersion 25
-        targetSdkVersion 25
+        targetSdkVersion 29
     }
     lintOptions {
         disable 'MissingTranslation'
